@@ -48,26 +48,34 @@
 ### Начальный уровень (для новичков)
 
 **Текстовые интерактивные курсы:**
+- [Stepik — Поколение Python: курс для начинающих](https://stepik.org/course/58852/) ⭐ **1 000 000+ студентов!** — 500+ задач с автопроверкой
 - [Code Basics — Python](https://code-basics.com/ru/languages/python) 📝 **PRIMM-подобный** — Практика в каждом уроке
-- [Яндекс Практикум — Основы Python](https://start.practicum.yandex/python-free/) 📝 20 часов, интерактивные задания
+- [Яндекс Практикум — Основы Python](https://start.practicum.yandex/python-free/) 📝 20 часов, создание помощника "Анфиса"
 - [Stepik — Python: основы и применение](https://stepik.org/course/512/) 📝 Биоинформатический институт
 - [Stepik — Программирование на Python](https://stepik.org/course/67/) 📝 МФТИ, подходит для школьников
 
 **Видеокурсы:**
+- [Stepik — Добрый, добрый Python (Сергей Балакирев)](https://stepik.org/course/100707/) 🎥 **Рекомендуем!** — 72 урока, 16+ часов видео, 342 задачи
 - [Stepik — Инди-курс программирования на Python](https://stepik.org/course/63085/) 🎥 Короткие видео + практика
 - [Python World — Самоучитель](https://pythonworld.ru/samouchitel-python) 📝 Подробные статьи с примерами
 
 **Блочное программирование (переход к Python):**
-- Scratch → Python через [CS50's Introduction to Programming with Scratch](https://cs50.harvard.edu/scratch/) (есть русские субтитры)
+- [Blockly.Ru](https://blockly.ru/) 🎯 **Русская платформа!** — Переход от блоков к Python, задачники
+- [Blockly Games (русская версия)](https://blockly-games.appspot.com/) 🎮 От Google, генерирует Python/JavaScript/PHP
+- [StepInDev](https://stepindev.com/ru/) 🤖 Робот и Черепаха, графика с p5
+- [CS50's Scratch](https://cs50.harvard.edu/scratch/) 🎨 Harvard (есть русские субтитры)
 
 ### Средний уровень
 
 - [Stepik — Поколение Python: курс для продвинутых](https://stepik.org/course/68343/) 📝 Углублённое изучение
-- [Stepik — ООП на Python](https://stepik.org/course/213932/) 📝 Объектно-ориентированное программирование
+- [Stepik — Введение в программирование (Python)](https://stepik.org/course/213932/) 📝 Систематическое изучение основ
+- [Stepik — Практикум по Python ООП](https://stepik.org/course/125421/) 🎥 Видеоуроки + задачи по ООП
 - [VK Education — Базовый Python](https://education.vk.company/program/bazovyy-python) 📝 От VK, качественный материал
 
 ### Продвинутый уровень
 
+- [Stepik — Поколение Python: курс для профессионалов](https://stepik.org/course/108864/) ⭐ **Победитель Stepik Awards 2022** — Продвинутые темы
+- [Stepik — Python для продвинутых](https://stepik.org/course/239925/) 📝 ООП, функциональное программирование
 - [Stepik — Алгоритмы: теория и практика. Методы](https://stepik.org/course/217/) 📝 Computer Science Center
 - [Stepik — Python для анализа данных](https://stepik.org/course/4852/) 📝 Pandas, NumPy, Matplotlib
 
@@ -77,13 +85,24 @@
 
 ### Начальный уровень
 
+**Университетские курсы:**
+- [OpenU.kz — Python тілінде бағдарламалау негіздері](https://openu.kz/kz/courses/python-tilinde-badarlamalau-negizderi) 🎓 **На казахском!** — Основан на "Think Python", от преподавателя SDU
+
 **Видеокурсы:**
 - [Python бағдарламалау тілі (YouTube плейлист)](https://www.youtube.com/watch?v=I0PN2_rjrF8&list=PLnAyoDHHfaiXPc0MqQANzb7-fPPkRhQHR) 🎥 Полный курс на казахском
+
+**Текстовые ресурсы:**
+- [AlmatySite — Python тілі](https://almatysite.kz/python/) 📝 Простые объяснения на казахском
 
 **Платформы с казахским:**
 - [Skills Enbek](https://the-tech.kz/besplatnye-onlajn-kursy-po-it-i-programmirovaniyu-v-kazahstane/) 📝 Data Science и Python (казахский и русский), 72 часа, бесплатно
 
-**Примечание:** Большинство казахстанских платформ (Stepik.kz, Attractor School) используют русский язык. Для изучения на казахском рекомендуем YouTube-каналы и Coursera с казахскими субтитрами.
+### Средний уровень
+
+**Офлайн/Онлайн обучение:**
+- [IT Step Academy Kazakhstan](https://itstep.org) 🏫 Python тілінде бағдарламалау — Структурированная программа, менторство (есть филиалы по Казахстану)
+
+**Примечание:** Большинство казахстанских платформ (Stepik.kz, Attractor School) используют русский язык. Для углубленного изучения рекомендуем постепенно переходить на русские/английские курсы.
 
 ---
 
@@ -135,9 +154,20 @@
 - Этот репозиторий! — [python_lessons](https://github.com/fleytman/python_lessons)
 
 ### 🧪 TDD (Test-Driven Development)
+
+**Начальный уровень:**
 - [Runestone Academy](https://runestone.academy/) — задачи с автоматическими тестами
 - [Exercism — Python Track](https://exercism.org/tracks/python) — менторство + TDD
 - [CodeWars](https://www.codewars.com/) — ката с TDD подходом
+
+**Средний/Продвинутый уровень (B2+ English):**
+- [Real Python — Test-Driven Development with pytest](https://realpython.com/courses/test-driven-development-pytest/) 🎥 Видеокурс от Real Python
+- [Coursera — A Practical Introduction to TDD](https://www.coursera.org/learn/a-practical-introduction-to-test-driven-development) 📝 LearnQuest, Red-Green-Refactor цикл
+- [TestDriven.io Courses](https://testdriven.io/) 🚀 TDD + Docker + Flask/Django (профессиональный уровень)
+- [Coursera — Test-Driven Development Specialization](https://www.coursera.org/specializations/test-driven-development) 📚 50-60 часов, полная программа
+
+**Книги (бесплатно онлайн):**
+- [Test-Driven Web Development with Python](https://www.obeythetestinggoat.com/pages/book.html) 📖 "Obey the Testing Goat!" — создание веб-приложений через TDD
 
 ### 🎨 Blockly / Block Programming
 - [Blockly Games](https://blockly.games/) — обучение через игры
@@ -174,6 +204,11 @@
 - [Class Central — Best Python Courses 2025](https://www.classcentral.com/report/best-python-courses/)
 - [FreeCodeCamp — Python Resources](https://www.freecodecamp.org/news/tag/python/)
 - [GitHub — Awesome Python](https://github.com/vinta/awesome-python) — огромная коллекция ресурсов
+
+**Справочники и документация:**
+- [Metanit — Python](https://metanit.com/python/) 📘 Подробный справочник на русском
+- [Python.org — Official Documentation](https://docs.python.org/3/) 📚 Официальная документация
+- [PRIMM Portal](https://primmportal.com/) 📖 Материалы по методике PRIMM для преподавателей
 
 **Сообщества для вопросов:**
 - [Reddit — r/learnpython](https://www.reddit.com/r/learnpython/) — дружелюбное сообщество для новичков
