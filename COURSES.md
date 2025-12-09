@@ -92,7 +92,6 @@
 
 **Платформы с казахским:**
 - [Skills Enbek](https://the-tech.kz/besplatnye-onlajn-kursy-po-it-i-programmirovaniyu-v-kazahstane/) 📝 Data Science и Python (казахский и русский), 72 часа, бесплатно
-- [Informatics.msk.ru — Python на казахском](https://informatics.msk.ru/) 🧩 **Parsons + задачи!** — Олимпиадные задачи, курсы для 6-11 классов
 
 ### Средний уровень
 
