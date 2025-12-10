@@ -52,7 +52,10 @@ say_hello()
 """)
 
 print("\n--- Ваше решение (задание 1) ---")
-# Напишите функцию в правильном порядке:
+def say_hello():     
+    for i in range(3):  
+        print("Привет!") 
+say_hello()
 
 
 
@@ -80,7 +83,11 @@ greet_user()
 
 print("\n--- Ваше решение (задание 2) ---")
 # Напишите функцию в правильном порядке:
-
+def greet_user():
+  name = input("Как вас зовут? ")
+  print("Привет, " + name + "!")
+  
+greet_user()
 
 
 
@@ -108,6 +115,11 @@ draw_stairs()
 
 print("\n--- Ваше решение (задание 3) ---")
 # Напишите правильный код:
+def draw_stairs():       
+    for i in range(1, 4): 
+        print("*" * i)  
+      
+draw_stairs()
 
 
 
@@ -136,6 +148,13 @@ show_card()
 
 print("\n--- Ваше решение (задание 4) ---")
 # Напишите правильный код:
+def show_card():        
+    name = "Алиса"     
+    age = 15             
+    print("Имя:", name)   
+    print("Возраст:", age)
+
+show_card()
 
 
 
@@ -166,6 +185,12 @@ countdown()
 
 print("\n--- Ваше решение (задание 5) ---")
 # Напишите правильный код:
+def countdown():
+    for i in range(3, 0, -1):
+        print(i)
+    print("Пуск!")
+
+countdown()
 
 
 
@@ -196,6 +221,14 @@ calculate_age()
 
 print("\n--- Ваше решение (задание 6) ---")
 # Напишите правильный код:
+def calculate_age():
+    birth_year = input("В каком году вы родились? ")
+    birth_year = int(birth_year) 
+    current_year = 2025 
+    age = current_year - birth_year 
+    print("Вам", age, "лет")
+
+calculate_age()
 
 
 
@@ -231,6 +264,12 @@ multiplication_table()
 
 print("\n--- Ваше решение (бонус) ---")
 # Напишите правильный код:
+def multiplication_table(): 
+    for i in range(1, 11):
+        result = 5 * i 
+        print("5 x", i, "=", result)
+
+multiplication_table()
 
 
 
@@ -261,8 +300,22 @@ print("""
 
 print("\n--- Ваша Parson Problem ---")
 # Напишите задачу и решение:
+A) def print_animals():
+B) for i in range(3):
+C) print(animals[i])
+D) animals = ["кот", "собака", "птица"]
+E) print("Привет!") # лишняя строка
+F) print("Конец списка")
 
+Вызов функции:
+print_animals()
 
+animals = ["кот", "собака", "птица"]
+def print_animals():        
+    for i in range(3):   
+        print(animals[i])     
+print_animals()  
+print("Конец списка")
 
 
 # ============================================
